@@ -1,2 +1,2 @@
-![[ProjectLiminality.png]]
-![[ProjectLiminality.gif]]
+![](ProjectLiminality.png)
+![](ProjectLiminality.gif)
